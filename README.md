@@ -32,4 +32,4 @@ In this project, work was studied with Node.js, a server-side technology that al
 ### Fast start:
 - Clone the repository: `https://github.com/vikingrag/node_js.git`
 
-- Follow this link : `https://vovks-node-js.herokuapp.com/`
+- Follow this link : [https://vovks-node-js.herokuapp.com/](https://vovks-node-js.herokuapp.com/)
