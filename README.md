@@ -1,6 +1,6 @@
 # Node.js
 
-### Описание курса:
+### Course Description::
 In this project, work was studied with Node.js, a server-side technology that allows you to execute code written in JavaScript outside the browser. I analyzed the concepts and built-in modules that are actively used in the development of the server. Considered the mechanism of communication between the server and the browser. Created basic routing in pure Node.js. I connected Express and rewrote the router. I learned how to work with dynamic data using the Node.js template engine. Wrote a news application with support for CRUD operations and data storage in MongoDB. I created my own API for returning data from the database. And finally, I uploaded the finished application to Heroku
 
 ---
